@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">domn-image-ipsticker-generator 工作流</title>
+  <desc id="desc">IP 角色 → 可审阅的透明贴纸批量生成。阶段：锁定 IP → 出草图 → 批量生成 → 透明裁切 → 命名归档。</desc>
+  <rect width="1200" height="320" rx="24" fill="#0C0F13"/>
+  <g id="title-block" transform="translate(56 40)">
+    <text x="0" y="14" fill="#7A8694" font-size="15" letter-spacing="2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">WORKFLOW · 1–5</text>
+    <text x="0" y="46" fill="#E8ECF1" font-size="23" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">IP 角色 → 可审阅的透明贴纸批量生成</text>
+  </g>
+  <g id="project-proof">
+    <line x1="120.0" y1="180" x2="1080.0" y2="180" stroke="#5B903A" stroke-width="3"/>
+    <path d="M233.0 174 L247.0 180 L233.0 186 Z" fill="#5B903A"/>
+    <path d="M473.0 174 L487.0 180 L473.0 186 Z" fill="#5B903A"/>
+    <path d="M713.0 174 L727.0 180 L713.0 186 Z" fill="#5B903A"/>
+    <path d="M953.0 174 L967.0 180 L953.0 186 Z" fill="#5B903A"/>
+    <g id="stage-1" transform="translate(120 180)">
+      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
+      <text x="0" y="8" fill="#5B903A" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">1</text>
+      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">锁定 IP</text>
+    </g>
+    <g id="stage-2" transform="translate(360 180)">
+      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
+      <text x="0" y="8" fill="#5B903A" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">2</text>
+      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">出草图</text>
+    </g>
+    <g id="stage-3" transform="translate(600 180)">
+      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
+      <text x="0" y="8" fill="#5B903A" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">3</text>
+      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">批量生成</text>
+    </g>
+    <g id="stage-4" transform="translate(840 180)">
+      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
+      <text x="0" y="8" fill="#5B903A" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">4</text>
+      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">透明裁切</text>
+    </g>
+    <g id="stage-5" transform="translate(1080 180)">
+      <circle r="30" fill="#5B903A" stroke="#5B903A" stroke-width="1.5"/>
+      <text x="0" y="8" fill="#0C0F13" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">5</text>
+      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">命名归档</text>
+    </g>
+  </g>
+  <g id="metadata"><text x="600" y="304" fill="#7A8694" font-size="18" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">批量生成与裁切前需审批</text></g>
+</svg>
