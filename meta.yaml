@@ -1,0 +1,15 @@
+display-name-zh: IP人物贴纸资产生产
+version: 0.7.1
+tag-en: "Visual Image"
+tag-cn: "视觉图像"
+complete-tags-en:
+  - "Visual Design / Creative Generation"
+complete-tags-cn:
+  - "视觉设计 / 创作生成"
+summary-en: "Plans, reviews, crops, names, and archives consistent IP character, full-body, prop, and combination sticker assets from references."
+summary-cn: "基于角色参考图完成头像、半身、全身、周边与组合贴纸的规划、审核、原生尺寸拆剪和归档。"
+desc-en: "This skill serves creators and product teams who need a repeatable IP sticker asset pipeline instead of an opaque batch image job. The user provides a readable character or style reference and a sticker brief covering asset scope, emotions, actions, visual direction, aspect ratio, and quantity. The workflow always generates one 3x3 source sheet, pauses for plan approval, generates a representative sample, obtains sample approval, completes the sheet, pauses again for final quality approval, preserves the high-resolution source, crops each sticker along the Alpha edge with 1px transparent padding at native pixel dimensions, and saves transparent PNGs, preview, and manifest. Full-body content uses 9:16 composition within the approved sheet plan; prop entries contain no person and inherit only IP traits. It keeps the approved sheet workflow, manifest naming, and visible failure reporting consistent."
+desc-cn: "本 Skill 面向需要稳定生产 IP 贴纸素材库的创作者与产品团队，解决批量生图后难审核、难拆剪、难复用的问题。用户提供可读取的人物或画风参考图，以及包含资产范围、情绪、动作、视觉方向、画面比例和数量的贴纸简报。流程固定生成一张 3×3 源图，在方案前暂停确认，生成样张并确认，再完成素材板；随后再次暂停进行最终质量确认，保留高分辨率源图，沿 Alpha 边缘向外扩张 1px 透明 padding 后按原生像素尺寸拆剪，并保存透明 PNG、预览和 Manifest。全身内容在已批准的素材板方案中使用 9:16 构图；周边条目不出现人物，只继承 IP 特征。流程保持已批准的素材板、Manifest 命名和失败可见性。"
+author-en: "MiniMax Design"
+author-cn: "MiniMax Design"
+source: official
